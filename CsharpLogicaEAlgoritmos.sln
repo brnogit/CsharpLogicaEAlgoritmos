@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessamentoDeDados", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessamentoDeDadosExemplo2", "ProcessamentoDeDadosExemplo2\ProcessamentoDeDadosExemplo2.csproj", "{C215D7E6-4F68-4972-87F7-6F0CC5A856C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessamentoDeDadosExemplo3", "ProcessamentoDeDadosExemplo3\ProcessamentoDeDadosExemplo3.csproj", "{01D2C2BF-61FA-4004-A59E-D073DEBE9634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C215D7E6-4F68-4972-87F7-6F0CC5A856C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C215D7E6-4F68-4972-87F7-6F0CC5A856C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C215D7E6-4F68-4972-87F7-6F0CC5A856C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D2C2BF-61FA-4004-A59E-D073DEBE9634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D2C2BF-61FA-4004-A59E-D073DEBE9634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D2C2BF-61FA-4004-A59E-D073DEBE9634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D2C2BF-61FA-4004-A59E-D073DEBE9634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
