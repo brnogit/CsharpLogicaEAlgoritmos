@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula22PrimeiroExercicioUri"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula32EstruturaCondicional", "Aula32EstruturaCondicional\Aula32EstruturaCondicional.csproj", "{28FDD778-3BAA-4889-8403-60506251FD3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula32EstruturaCondicionalComposta", "Aula32EstruturaCondicionalComposta\Aula32EstruturaCondicionalComposta.csproj", "{FF97FD92-76FA-45FF-9B00-29428AE21A8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{28FDD778-3BAA-4889-8403-60506251FD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28FDD778-3BAA-4889-8403-60506251FD3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28FDD778-3BAA-4889-8403-60506251FD3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF97FD92-76FA-45FF-9B00-29428AE21A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF97FD92-76FA-45FF-9B00-29428AE21A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF97FD92-76FA-45FF-9B00-29428AE21A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF97FD92-76FA-45FF-9B00-29428AE21A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
