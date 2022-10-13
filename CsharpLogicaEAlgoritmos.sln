@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula19FuncoesMatematicas", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula22PrimeiroExercicioUri", "Aula22PrimeiroExercicioUri\Aula22PrimeiroExercicioUri.csproj", "{1345D36E-8CBE-4497-8C2B-043B967E16BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula32EstruturaCondicional", "Aula32EstruturaCondicional\Aula32EstruturaCondicional.csproj", "{28FDD778-3BAA-4889-8403-60506251FD3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula32EstruturaCondicional", "Aula32EstruturaCondicional\Aula32EstruturaCondicional.csproj", "{28FDD778-3BAA-4889-8403-60506251FD3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula32EstruturaCondicionalComposta", "Aula32EstruturaCondicionalComposta\Aula32EstruturaCondicionalComposta.csproj", "{FF97FD92-76FA-45FF-9B00-29428AE21A8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula32EstruturaCondicionalComposta", "Aula32EstruturaCondicionalComposta\Aula32EstruturaCondicionalComposta.csproj", "{FF97FD92-76FA-45FF-9B00-29428AE21A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula36SintaxeOpcional", "Aula36SintaxeOpcional\Aula36SintaxeOpcional.csproj", "{88EF3F23-112F-4DD8-AC81-D808DF364BA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{FF97FD92-76FA-45FF-9B00-29428AE21A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF97FD92-76FA-45FF-9B00-29428AE21A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF97FD92-76FA-45FF-9B00-29428AE21A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EF3F23-112F-4DD8-AC81-D808DF364BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EF3F23-112F-4DD8-AC81-D808DF364BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EF3F23-112F-4DD8-AC81-D808DF364BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EF3F23-112F-4DD8-AC81-D808DF364BA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,7 +17,13 @@ namespace estruturacondicionalcomposta
             }
             else
             {
-                Console.WriteLine("Boa tarde!");
+                if (horas < 18)
+                {
+                    Console.WriteLine("Boa tarde!");
+                } else
+                {
+                    Console.WriteLine("Boa noite!");
+                }
             }
 
             Console.ReadLine();
