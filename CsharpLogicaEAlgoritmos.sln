@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula32EstruturaCondicionalC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula36SintaxeOpcional", "Aula36SintaxeOpcional\Aula36SintaxeOpcional.csproj", "{88EF3F23-112F-4DD8-AC81-D808DF364BA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula37SintaxeOpcionalEstruturaSwitchCase", "Aula37SintaxeOpcionalEstruturaSwitchCase\Aula37SintaxeOpcionalEstruturaSwitchCase.csproj", "{50F78AAA-38B1-4005-8383-61E67E14CC11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{88EF3F23-112F-4DD8-AC81-D808DF364BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88EF3F23-112F-4DD8-AC81-D808DF364BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88EF3F23-112F-4DD8-AC81-D808DF364BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F78AAA-38B1-4005-8383-61E67E14CC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F78AAA-38B1-4005-8383-61E67E14CC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F78AAA-38B1-4005-8383-61E67E14CC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F78AAA-38B1-4005-8383-61E67E14CC11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
