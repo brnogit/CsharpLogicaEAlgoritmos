@@ -10,16 +10,15 @@ namespace curso
             double c, f;
             char repetir;
 
-            repetir = 's';
-            while(repetir == 's') 
-            { 
+            do
+            {
                 Console.Write("Digite a tempetarua em Celsius");
                 c = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 f = 9.0 * c / 5.0 + 32.0;
                 Console.WriteLine("Equivalente em Fahrenheit: " + f.ToString("F1", CultureInfo.InvariantCulture));
                 Console.Write("Deseja repetir (s/n)? ");
                 repetir = char.Parse(Console.ReadLine());
-            }
+            } while (repetir == 's');
         }
     }
 }
