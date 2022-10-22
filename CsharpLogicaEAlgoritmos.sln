@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula37SintaxeOpcionalEstrut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula40EstruturaRepetitivaEnquanto", "Aula40EstruturaRepetitivaEnquanto\Aula40EstruturaRepetitivaEnquanto.csproj", "{EF538DE4-2365-4B71-9380-2AA3F8EC2117}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula46EstruturaRepetitivaPara", "Aula46EstruturaRepetitivaPara\Aula46EstruturaRepetitivaPara.csproj", "{09C0343A-2B8C-4977-B08A-231EC8D8C38D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula46EstruturaRepetitivaPara", "Aula46EstruturaRepetitivaPara\Aula46EstruturaRepetitivaPara.csproj", "{09C0343A-2B8C-4977-B08A-231EC8D8C38D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula51EstruturaRepetitivaFacaEnquanto", "Aula51EstruturaRepetitivaFacaEnquanto\Aula51EstruturaRepetitivaFacaEnquanto.csproj", "{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{09C0343A-2B8C-4977-B08A-231EC8D8C38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09C0343A-2B8C-4977-B08A-231EC8D8C38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09C0343A-2B8C-4977-B08A-231EC8D8C38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

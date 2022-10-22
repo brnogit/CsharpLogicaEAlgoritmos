@@ -17,6 +17,18 @@ namespace curso
                 soma = soma + x;
             }
             Console.WriteLine(soma);
+            Console.WriteLine("---------------------- Progressiva");
+
+            for(int i = 0; i< 5; i++)
+            {
+                Console.WriteLine("Valor de i: " + i);
+            }
+            Console.WriteLine("---------- Regressiva");
+
+            for(int i = 4; i >= 0; i--)
+            {
+                Console.WriteLine("Valor de i: " + i);
+            }
         }
     }
 }
