@@ -39,7 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula40EstruturaRepetitivaEn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula46EstruturaRepetitivaPara", "Aula46EstruturaRepetitivaPara\Aula46EstruturaRepetitivaPara.csproj", "{09C0343A-2B8C-4977-B08A-231EC8D8C38D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula51EstruturaRepetitivaFacaEnquanto", "Aula51EstruturaRepetitivaFacaEnquanto\Aula51EstruturaRepetitivaFacaEnquanto.csproj", "{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula51EstruturaRepetitivaFacaEnquanto", "Aula51EstruturaRepetitivaFacaEnquanto\Aula51EstruturaRepetitivaFacaEnquanto.csproj", "{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula52Vetores", "Aula52Vetores\Aula52Vetores.csproj", "{93B93305-375B-48BF-8536-32BE40AAAAEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula60SintaxeOpcionalForEach", "Aula60SintaxeOpcionalForEach\Aula60SintaxeOpcionalForEach.csproj", "{F80A353B-7711-433A-8075-E0DEEF3709B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +127,14 @@ Global
 		{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FA05CEF-1F7B-45C5-83BA-2AA2E965F714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B93305-375B-48BF-8536-32BE40AAAAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B93305-375B-48BF-8536-32BE40AAAAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B93305-375B-48BF-8536-32BE40AAAAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B93305-375B-48BF-8536-32BE40AAAAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80A353B-7711-433A-8075-E0DEEF3709B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80A353B-7711-433A-8075-E0DEEF3709B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80A353B-7711-433A-8075-E0DEEF3709B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80A353B-7711-433A-8075-E0DEEF3709B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
