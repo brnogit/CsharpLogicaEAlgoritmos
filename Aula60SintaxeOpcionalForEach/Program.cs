@@ -16,9 +16,9 @@ namespace sintaxeopcionalforeach
             }
 
             Console.WriteLine("Nomes lidos:");
-            for (int i = 0; i < N; i++)
+            foreach(string elemento in vet)
             {
-                Console.WriteLine(vet[i]);
+                Console.WriteLine(elemento);
             }
         }
     }
