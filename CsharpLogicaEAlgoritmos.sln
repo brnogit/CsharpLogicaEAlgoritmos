@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula51EstruturaRepetitivaFa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula52Vetores", "Aula52Vetores\Aula52Vetores.csproj", "{93B93305-375B-48BF-8536-32BE40AAAAEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula60SintaxeOpcionalForEach", "Aula60SintaxeOpcionalForEach\Aula60SintaxeOpcionalForEach.csproj", "{F80A353B-7711-433A-8075-E0DEEF3709B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula60SintaxeOpcionalForEach", "Aula60SintaxeOpcionalForEach\Aula60SintaxeOpcionalForEach.csproj", "{F80A353B-7711-433A-8075-E0DEEF3709B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula63Matrizes", "Aula63Matrizes\Aula63Matrizes.csproj", "{9ECAB224-1E77-4069-B427-592CDD96D90C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{F80A353B-7711-433A-8075-E0DEEF3709B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F80A353B-7711-433A-8075-E0DEEF3709B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F80A353B-7711-433A-8075-E0DEEF3709B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECAB224-1E77-4069-B427-592CDD96D90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECAB224-1E77-4069-B427-592CDD96D90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECAB224-1E77-4069-B427-592CDD96D90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECAB224-1E77-4069-B427-592CDD96D90C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
